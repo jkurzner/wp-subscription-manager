@@ -16,7 +16,7 @@ require 'plugin-update-checker/plugin-update-checker.php';
 use YahnisElsts\PluginUpdateChecker\v5\PucFactory;
 
 $myUpdateChecker = PucFactory::buildUpdateChecker(
-    'https://github.com/YOUR-USERNAME/wp-subscriber-manager/', // CHANGE THIS to your GitHub username
+    'https://github.com/jkurzner/wp-subscription-manager/', // CHANGE THIS to your GitHub username
     __FILE__,
     'wp-subscriber-manager'
 );
