@@ -2,14 +2,14 @@
 /*
 Plugin Name: WP Subscriber Manager
 Description: Subscriber management with double opt-in, CSV import/export, cookie-based form display, and honeypot spam protection.
-Version: 3.1
+Version: 3.1.1
 Author: jkurzner
 Author URI: https://mindshaft.com
 Plugin URI: https://github.com/jkurzner/wp-subscriber-manager
 */
 
 // Define plugin version constant
-define('WSM_VERSION', '3.1');
+define('WSM_VERSION', '3.1.1');
 
 // Enable auto-updates from GitHub
 require 'plugin-update-checker/plugin-update-checker.php';
